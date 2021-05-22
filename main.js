@@ -1,0 +1,4 @@
+function show(){
+    
+    document.getElementById("info").innerHTML="Novak Djokovic born 22 May 1987 is a Serbian professional tennis player. He is currently ranked as world No. 1 by the Association of Tennis Professionals (ATP). Djokovic has been No. 1 for 307 weeks, and has finished as year-end No. 1 on six occasions, an Open Era record shared with Pete Sampras. Djokovic has won 17 Grand Slam men's singles titles, including a record eight Australian Open titles. He is the only player to win all of the elite tournaments on the modern ATP Tour – that is, all four Grand Slam tournaments, all nine ATP Masters 1000 tournaments, and the ATP Finals. In particular, he is also the only player to complete the career Golden Masters, which he has done twice. Overall, he has won 81 ATP singles titles, including a record eight Australian Open titles and a record 36 Masters events.";
+}

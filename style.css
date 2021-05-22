@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: floralwhite;
+}
+img{
+    width:60%;
+}
+#info{
+    
+    font-size: 20px;
+    color: darkblue;
+    font-family: monospace;
+    
+}
+buttton{
+    background-color: darkkhaki;
+    color: darkgreen;
+}
